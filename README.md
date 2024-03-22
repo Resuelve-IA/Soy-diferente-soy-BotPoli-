@@ -19,6 +19,12 @@ Esta sección explica cómo utilizar el proyecto y proporciona ejemplos de uso.
 Aquí se describe cómo contribuir al proyecto y las pautas a seguir.
 
 Para más detalles sobre cada parte del proyecto, consulta los enlaces a continuación.
+## Desarrollo del Bot
+
+- [Descripción](desarrollo-bot/README.md#descripción)
+- [Instalación](desarrollo-bot/README.md#instalación)
+- [Uso](desarrollo-bot/README.md#uso)
+- [Contribución](desarrollo-bot/README.md#contribución)
 
 - [Desarrollo del Bot](desarrollo-bot/README.md)
 - [Documentación](documentacion/README.md)
