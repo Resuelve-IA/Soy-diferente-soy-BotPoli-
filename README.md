@@ -12,9 +12,9 @@ El bot de WhatsApp tiene como objetivo proporcionar respuestas rápidas y eficie
     * Investigación sobre las necesidades y preferencias de los estudiantes de Politecnico Grancolombiano. [documentacion/PreguntasFrecuentes](documentacion/PreguntasFrecuentes.md#)
     * Análisis de la competencia y los bots existentes en WhatsApp. [documentacion/analisisDeCompetencia](documentacion/analizisDeCompetencia.md#)
     * Identificación de los requisitos del negocio y las funcionalidades clave del bot.  [documentacion/requisitosFuncionalidesBot](documentacion/requisitosFuncionalidesBot.md)
-* **Definición de Objetivos y Alcance:** [documentacion/objetivos_alcance.md](documentacion/objetivos_alcance.md)
-    * Documentación detallada de los objetivos del proyecto y las funcionalidades principales del bot.
-    * Establecimiento de los límites del proyecto y la definición de lo que está dentro y fuera de alcance.
+* **Definición de Objetivos y Alcance:** [objetivos_alcance](objetivosyalcance/README.md)
+    * Documentación detallada de los objetivos del proyecto y las funcionalidades principales del bot.[objetivos y funcionalidades principales](objetivosyalcance/objetivoyfuncionalidad.md)
+    * Establecimiento de los límites del proyecto y la definición de lo que está dentro y fuera de alcance.[limites](objetivosyalcance/limitesProyecto.md)
 * **Selección de Tecnologías y Herramientas:** [documentacion/tecnologias_herramientas.md](documentacion/tecnologias_herramientas.md)
     * Evaluación de plataformas de desarrollo de bots como Twilio, Dialogflow, Microsoft Bot Framework, etc.
     * Investigación y selección de herramientas de inteligencia artificial y NLP adecuadas para el proyecto.
