@@ -1,10 +1,4 @@
-# Introducción
-
-Este documento resume la investigación y el análisis realizados para el desarrollo de un bot de WhatsApp. Se incluyen tres archivos auxiliares que contienen información detallada sobre:
-
-* **[Preguntas frecuentes](PreguntasFrecuentes.md):** Recopilación de preguntas frecuentes sobre el bot y su funcionamiento.
-* **[Análisis de la competencia](analisisDeCompetencia.md):** Estudio de los bots de WhatsApp existentes en el mercado, sus características y funcionalidades.
-* **[Requisitos y funcionalidades del bot](requisitosFuncionalidesBot.md):** Descripción de las necesidades del negocio y las funcionalidades clave que debe tener el bot.
+# [⏪ Atras](../README.md)
 
 # Resumen de la investigación
 
@@ -47,7 +41,7 @@ La investigación y el análisis realizados han permitido identificar las necesi
 # Documentos auxiliares
 
 * **PreguntasFrecuentes.md:** [Enlace al archivo: PreguntasFrecuentes.md](PreguntasFrecuentes.md)
-* **analisisDeCompetencia.md:** [Enlace al archivo: analisisDeCompetencia.md](analisisDeCompetencia.md)
+* **analisisDeCompetencia.md:** [Enlace al archivo: analisisDeCompetencia.md](analizisDeCompetencia.md)
 * **requisitosFuncionalidesBot.md:** [Enlace al archivo: requisitosFuncionalidesBot.md](requisitosFuncionalidesBot.md)
 
 # Esperamos que esta información sea útil.

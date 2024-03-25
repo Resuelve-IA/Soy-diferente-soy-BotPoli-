@@ -1,6 +1,6 @@
 # Bot de WhatsApp con Inteligencia Artificial
 
-Este repositorio contiene el proyecto de desarrollo de un bot para WhatsApp que utiliza inteligencia artificial para brindar asistencia a los usuarios en diversas áreas.
+Este repositorio contiene el proyecto de desarrollo de un bot para WhatsApp que utiliza inteligencia artificial para brindar asistencia a los estudiantes de ingenieria de software.
 
 ## Descripción
 
@@ -8,13 +8,13 @@ El bot de WhatsApp tiene como objetivo proporcionar respuestas rápidas y eficie
 
 ## Documentación
 
-* **Investigación y Análisis:** [documentacion/README.md](documentacion/README.md)
-    * Investigación sobre las necesidades y preferencias de los estudiantes de Politecnico Grancolombiano. [documentacion/PreguntasFrecuentes](documentacion/PreguntasFrecuentes.md#)
-    * Análisis de la competencia y los bots existentes en WhatsApp. [documentacion/analisisDeCompetencia](documentacion/analizisDeCompetencia.md#)
-    * Identificación de los requisitos del negocio y las funcionalidades clave del bot.  [documentacion/requisitosFuncionalidesBot](documentacion/requisitosFuncionalidesBot.md)
-* **Definición de Objetivos y Alcance:** [objetivos_alcance](objetivosyalcance/README.md)
-    * Documentación detallada de los objetivos del proyecto y las funcionalidades principales del bot.[objetivos y funcionalidades principales](objetivosyalcance/objetivoyfuncionalidad.md)
-    * Establecimiento de los límites del proyecto y la definición de lo que está dentro y fuera de alcance.[limites](objetivosyalcance/limitesProyecto.md)
+* **Investigación y Análisis:** [📜 mas](documentacion/README.md)
+    * Investigación sobre las necesidades y preferencias de los estudiantes de Politecnico Grancolombiano. [📜 mas](documentacion/PreguntasFrecuentes.md#)
+    * Análisis de la competencia y los bots existentes en WhatsApp. [📜 mas](documentacion/analizisDeCompetencia.md#)
+    * Identificación de los requisitos del negocio y las funcionalidades clave del bot.  [📜 mas](documentacion/requisitosFuncionalidesBot.md)
+* **Definición de Objetivos y Alcance:** [📜 mas](objetivosyalcance/README.md)
+    * Documentación detallada de los objetivos del proyecto y las funcionalidades principales del bot.[📜 mas](objetivosyalcance/objetivoyfuncionalidad.md)
+    * Establecimiento de los límites del proyecto y la definición de lo que está dentro y fuera de alcance.[📜 mas](objetivosyalcance/limitesProyecto.md)
 * **Selección de Tecnologías y Herramientas:** [documentacion/tecnologias_herramientas.md](documentacion/tecnologias_herramientas.md)
     * Evaluación de plataformas de desarrollo de bots como Twilio, Dialogflow, Microsoft Bot Framework, etc.
     * Investigación y selección de herramientas de inteligencia artificial y NLP adecuadas para el proyecto.
@@ -57,6 +57,3 @@ El bot de WhatsApp tiene como objetivo proporcionar respuestas rápidas y eficie
 * Guía para la creación de bots de WhatsApp: https://blog.hubspot.es/marketing/whatsapp-bot
 * Plataformas de desarrollo de bots de WhatsApp: https://influencermarketinghub.com/es/herramientas-chatbot-whatsapp/
 * Herramientas de inteligencia artificial para bots: https://botpress.com/es/blog/9-best-ai-chatbot-platforms
-
-## Esperamos que esta información te sea útil.
-```markdown
