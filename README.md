@@ -22,7 +22,7 @@ El bot de WhatsApp tiene como objetivo proporcionar respuestas rápidas y eficie
 * **Definición de Objetivos y Alcance:** [✏️ mas](objetivosyalcance/README.md)
     * Documentación detallada de los objetivos del proyecto y las funcionalidades principales del bot.[📜 mas](objetivosyalcance/objetivoyfuncionalidad.md)
     * Establecimiento de los límites del proyecto y la definición de lo que está dentro y fuera de alcance.[📜 mas](objetivosyalcance/limitesProyecto.md)
-* **Selección de Tecnologías y Herramientas:** [✏️ mas](documentacion/tecnologias_herramientas.md)
+* **Selección de Tecnologías y Herramientas:** [✏️ mas](tecnologiasyherramientas/README.md)
     * Evaluación de plataformas de desarrollo de bots como Twilio, Dialogflow, Microsoft Bot Framework, etc.[✏️](tecnologiasyherramientas/evaluaciondeplataformas.md)
     * Investigación y selección de herramientas de inteligencia artificial y NLP adecuadas para el proyecto. [✏️](tecnologiasyherramientas/herramientasNPL.md)
 * **Diseño del Bot:** [documentacion/diseno_bot.md](documentacion/diseno_bot.md)
