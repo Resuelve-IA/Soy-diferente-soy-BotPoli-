@@ -1,3 +1,10 @@
+
+██████╗░░█████╗░░█████╗░██╗░░░██╗███╗░░░███╗███████╗███╗░░██╗████████╗░█████╗░░█████╗░██╗░█████╗░███╗░░██╗
+██╔══██╗██╔══██╗██╔══██╗██║░░░██║████╗░████║██╔════╝████╗░██║╚══██╔══╝██╔══██╗██╔══██╗██║██╔══██╗████╗░██║
+██║░░██║██║░░██║██║░░╚═╝██║░░░██║██╔████╔██║█████╗░░██╔██╗██║░░░██║░░░███████║██║░░╚═╝██║██║░░██║██╔██╗██║
+██║░░██║██║░░██║██║░░██╗██║░░░██║██║╚██╔╝██║██╔══╝░░██║╚████║░░░██║░░░██╔══██║██║░░██╗██║██║░░██║██║╚████║
+██████╔╝╚█████╔╝╚█████╔╝╚██████╔╝██║░╚═╝░██║███████╗██║░╚███║░░░██║░░░██║░░██║╚█████╔╝██║╚█████╔╝██║░╚███║
+╚═════╝░░╚════╝░░╚════╝░░╚═════╝░╚═╝░░░░░╚═╝╚══════╝╚═╝░░╚══╝░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝░╚════╝░╚═╝░░╚══╝
 # Bot de WhatsApp con Inteligencia Artificial
 
 Este repositorio contiene el proyecto de desarrollo de un bot para WhatsApp que utiliza inteligencia artificial para brindar asistencia a los estudiantes de ingenieria de software.
@@ -8,16 +15,16 @@ El bot de WhatsApp tiene como objetivo proporcionar respuestas rápidas y eficie
 
 ## Documentación
 
-* **Investigación y Análisis:** [📜 mas](documentacion/README.md)
+* **Investigación y Análisis:** [✏️ mas](documentacion/README.md)
     * Investigación sobre las necesidades y preferencias de los estudiantes de Politecnico Grancolombiano. [📜 mas](documentacion/PreguntasFrecuentes.md#)
     * Análisis de la competencia y los bots existentes en WhatsApp. [📜 mas](documentacion/analizisDeCompetencia.md#)
     * Identificación de los requisitos del negocio y las funcionalidades clave del bot.  [📜 mas](documentacion/requisitosFuncionalidesBot.md)
-* **Definición de Objetivos y Alcance:** [📜 mas](objetivosyalcance/README.md)
+* **Definición de Objetivos y Alcance:** [✏️ mas](objetivosyalcance/README.md)
     * Documentación detallada de los objetivos del proyecto y las funcionalidades principales del bot.[📜 mas](objetivosyalcance/objetivoyfuncionalidad.md)
     * Establecimiento de los límites del proyecto y la definición de lo que está dentro y fuera de alcance.[📜 mas](objetivosyalcance/limitesProyecto.md)
-* **Selección de Tecnologías y Herramientas:** [documentacion/tecnologias_herramientas.md](documentacion/tecnologias_herramientas.md)
-    * Evaluación de plataformas de desarrollo de bots como Twilio, Dialogflow, Microsoft Bot Framework, etc.
-    * Investigación y selección de herramientas de inteligencia artificial y NLP adecuadas para el proyecto.
+* **Selección de Tecnologías y Herramientas:** [✏️ mas](documentacion/tecnologias_herramientas.md)
+    * Evaluación de plataformas de desarrollo de bots como Twilio, Dialogflow, Microsoft Bot Framework, etc.[✏️](tecnologiasyherramientas/evaluaciondeplataformas.md)
+    * Investigación y selección de herramientas de inteligencia artificial y NLP adecuadas para el proyecto. [✏️](tecnologiasyherramientas/herramientasNPL.md)
 * **Diseño del Bot:** [documentacion/diseno_bot.md](documentacion/diseno_bot.md)
     * Diseño de la arquitectura del bot y la interfaz de usuario.
     * Creación de diagramas de flujo para la interacción del usuario con el bot.
